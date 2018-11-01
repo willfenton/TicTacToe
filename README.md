@@ -1,7 +1,7 @@
 # TicTacToe
 Tic Tac Toe game written in C++ with options for each player to be Human, Random or a Minimax algorithm.
 
-#####TODO
+##### TODO
 - GUI
 - Alpha Beta pruning
 - Play again / how many rounds option
