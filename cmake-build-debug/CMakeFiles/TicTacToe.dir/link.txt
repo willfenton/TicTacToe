@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/TicTacToe.dir/board.cpp.o CMakeFiles/TicTacToe.dir/main.cpp.o CMakeFiles/TicTacToe.dir/minimax.cpp.o CMakeFiles/TicTacToe.dir/playerFunctions.cpp.o  -o TicTacToe.exe -Wl,--out-implib,libTicTacToe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

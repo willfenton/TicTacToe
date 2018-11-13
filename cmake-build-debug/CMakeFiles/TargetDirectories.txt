@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
-/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
