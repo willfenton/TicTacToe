@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.cpp
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+vector
+-
+cstdio
+-
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+vector
+-
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/main.cpp
+stdio.h
+-
+cstdlib
+-
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+minimax.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/minimax.h
+playerFunctions.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/playerFunctions.h
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/minimax.cpp
+minimax.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/minimax.h
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+stdio.h
+-
+random
+-
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/minimax.h
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/playerFunctions.cpp
+cstdio
+-
+cstdlib
+-
+algorithm
+-
+ctime
+-
+playerFunctions.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/playerFunctions.h
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+minimax.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/minimax.h
+
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/playerFunctions.h
+board.h
+/cygdrive/c/Users/Will Fenton/Desktop/School/201/Code/TicTacToe/board.h
+
