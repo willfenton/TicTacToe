@@ -1,3 +1,4 @@
+#include <cstdio>
 #include "board.h"
 
 Board::Board() {

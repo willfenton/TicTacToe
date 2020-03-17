@@ -1,6 +1,8 @@
 #include <cstdio>
+#include <ctime>
 #include <algorithm>
 #include "playerFunctions.h"
+#include "minimax.h"
 
 void random_player(Board &board) {
 //    board.print();

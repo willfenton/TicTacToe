@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MINIMAX_H
+#define MINIMAX_H
 
 #include "board.h"
 
@@ -14,3 +15,5 @@ int score_game(Board board, char max_player);
 // The minimizing player will pick the move with the lowest score
 // Should always be passed with true as first_call (necessary to return the optimal move instead of score
 int minimax(Board board, char max_player, bool first_call);
+
+#endif

@@ -1,5 +1,6 @@
-
+#include <cstdio>
 #include "board.h"
+#include "playerFunctions.h"
 
 int main() {
 

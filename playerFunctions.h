@@ -1,4 +1,5 @@
-#pragma once
+#ifndef PLAYER_H
+#define PLAYER_H
 
 #include "board.h"
 
@@ -10,3 +11,5 @@ void human_player(Board &board, char player);
 
 // Uses minimax algorithm to make optimal move
 void minimax_player(Board &board, char maximizing_player);
+
+#endif

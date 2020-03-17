@@ -1,4 +1,5 @@
-#pragma once
+#ifndef BOARD_H
+#define BOARD_H
 
 #include <vector>
 
@@ -54,3 +55,5 @@ private:
     // Number of moves made so far in the game (non-blank squares)
     int depth;
 };
+
+#endif
